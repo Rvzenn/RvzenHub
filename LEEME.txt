@@ -1,0 +1,6 @@
+Script de guia para usar programas y automatizar almacenamiento 
+de los archivos txt con las contraseñas.
+
+Script de uso libre hecha por Rvzen
+
+No borrar la carpeta Rvzen (contiene archivos ocultos necesarios para el funcionamiento del script)
